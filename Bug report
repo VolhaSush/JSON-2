@@ -1,0 +1,6 @@
+Bug report
+[Burger menu] ooesn't opened at the main page capital.com
+Win 10 Chrome 112
+Steps 1. Open main page capital.com 2.Click [Burger menu] 
+Expecting result [Burger menu] opens
+Actual result [Burger menu] doesn't open
